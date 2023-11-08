@@ -1,0 +1,1 @@
++ [Что такое сниффер (sniffer) в тестировании](https://dzen.ru/a/ZBIUIIFhK2CthhTD)
