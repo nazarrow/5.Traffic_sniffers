@@ -22,3 +22,6 @@ Charles proxy - инструмент для мониторинга HTTP/HTTPS т
 + [Как использовать Charles](https://trofimovdigital.ru/blog/how-to-use-charles)
 + [Как раздать VPN через Fiddler или Charles](https://trofimovdigital.ru/blog/how-share-vpn-through-fiddler-or-charles)
 + [Плейлист Charles Proxy - Bogdan Ovsiyuk](https://www.youtube.com/playlist?list=PLof3mAh50UD05mFlTvNpTszOUY9eFrSDX)
++ [Charles Proxy на пальцах: главный помощник QA и разработчиков](https://habr.com/ru/articles/733834/)
++ [Сниффер трафика и для чего он нужен тестировщику](https://vc.ru/life/467157-sniffer-trafika-i-dlya-chego-on-nuzhen-testirovshchiku)
++ [Charles Proxy. Обзорный гайд](https://testengineer.ru/charles-proxy-quick-guide/#h--faq)
